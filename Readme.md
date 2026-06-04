@@ -214,9 +214,6 @@ If you're just beginning your cybersecurity journey, my advice is simple:
 9. Stay ethical and responsible.
 10. Never stop learning.
 
-Remember:
-
-> You do not need to discover a critical vulnerability to make an impact.
 
 Many meaningful contributions come from identifying and responsibly reporting low- and medium-severity issues that others overlook.
 
