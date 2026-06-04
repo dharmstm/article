@@ -4,7 +4,9 @@ As a cybersecurity researcher and bug bounty hunter, earning Hall of Fame recogn
 
 Many people assume that Hall of Fame recognitions are reserved for elite security researchers with years of experience. However, my experience has shown that persistence, continuous learning, and a structured methodology are often more important than advanced technical skills alone.
 
-*Insert Screenshot: NASA Hall of Fame Recognition*
+<img src="https://raw.githubusercontent.com/dharmstm/article/refs/heads/main/images/nasahof.jpeg" alt="NASA Hall of Fame Recognition">
+
+<p><em>My name listed in NASA's Hall of Fame for responsible vulnerability disclosure.</em></p>
 
 ## How I Started
 
@@ -32,7 +34,7 @@ Before performing any testing, I carefully reviewed the engagement documentation
 
 Many beginners overlook this step and start testing immediately. However, understanding the rules of engagement is critical. Respecting scope boundaries and following responsible disclosure practices are essential parts of ethical hacking.
 
-*Insert Screenshot: NASA Program Page or Bugcrowd Profile*
+<img src="https://raw.githubusercontent.com/dharmstm/article/refs/heads/main/images/bugcrowdnasavdppage.png" alt="NASA Hall of Fame Recognition">
 
 ## My Methodology
 
@@ -145,7 +147,9 @@ It represented:
 
 For students and aspiring cybersecurity professionals, Hall of Fame acknowledgments can be powerful additions to portfolios, resumes, and professional profiles.
 
-*Insert Screenshot: Other Hall of Fame Recognitions*
+<img src="https://raw.githubusercontent.com/dharmstm/article/refs/heads/main/images/ultabeautyhof.jpeg" alt="Ulta Beauty Hall of Fame Recognition">
+
+<img src="https://raw.githubusercontent.com/dharmstm/article/refs/heads/main/images/dreamscape.jpeg" alt="Dreamscape Hall of Fame Recognition">
 
 ## How Beginners Can Earn Hall of Fame Recognition
 
