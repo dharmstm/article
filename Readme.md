@@ -15,7 +15,84 @@ When I first started learning cybersecurity, I never imagined that one day my wo
 </p>
 
 ---
+<!--
+🔑 SEO Keywords
 
+Dharmendra Kumar
+Dharmendra Kumar Cybersecurity
+Dharmendra Kumar Ethical Hacker
+Dharmendra Kumar Penetration Tester
+Dharmendra Kumar Security Researcher
+
+dharmstm
+dharmendrastm
+dharmendracyberhack
+
+Ethical Hacker India
+Cybersecurity Engineer India
+Penetration Tester India
+VAPT Engineer India
+Security Researcher India
+
+eJPT Certified
+eJPT v2 Certified
+Junior Penetration Tester
+Offensive Security Professional
+
+Bug Bounty Hunter
+Responsible Disclosure
+Vulnerability Research
+Security Research
+
+NASA Hall of Fame
+NASA Security Researcher
+NASA Vulnerability Disclosure Program
+Ulta Beauty Hall of Fame
+Dreamscape Hall of Fame
+
+Cybersecurity Portfolio
+Ethical Hacking Portfolio
+Penetration Testing Portfolio
+Security Engineer Portfolio
+
+Web Application Security
+Application Security
+API Security Testing
+Network Penetration Testing
+Cloud Security Assessment
+Mobile Application Security
+IoT Security Testing
+
+OWASP Top 10
+OWASP Testing Guide
+SQL Injection
+Cross Site Scripting
+Stored XSS
+Reflected XSS
+DOM XSS
+CSRF
+SSRF
+IDOR
+Authentication Bypass
+Privilege Escalation
+
+TryHackMe
+TryHackMe Writeups
+Hack The Box
+Hack The Box Writeups
+CTF Writeups
+Cybersecurity Blog
+
+Burp Suite
+Nmap
+Metasploit
+Wireshark
+Kali Linux
+
+CVE-2026-30503
+CVE-2026-30502
+OpenKM XSS
+-->
 ## 🎯 My Cybersecurity Journey
 
 Like many aspiring security researchers, I started with a simple question:
